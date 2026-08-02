@@ -59,10 +59,3 @@ fun_fact:  "Obsession beats Discipline"
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
 
-<br/><br/>
-
-**⭐ If something here was useful, a star costs nothing and means a lot.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%" />
-
-</div>
