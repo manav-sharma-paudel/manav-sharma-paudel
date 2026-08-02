@@ -1,11 +1,3 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │  SETUP: Find & replace  YOUR-USERNAME  with your GitHub      │
-  │  handle everywhere in this file. Then swap the name, bio,    │
-  │  and social links. That's it.                                │
-  └─────────────────────────────────────────────────────────────┘
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=180&section=header&text=Your%20Name&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20things%20that%20didn't%20exist%20yesterday&descAlignY=52&descSize=16" width="100%" />
@@ -27,21 +19,21 @@
 ## 🧭 About Me
 
 ```yaml
-name:      "Your Name"
-role:      "Software Developer"
-location:  "Your City, Your Country"
-languages: ["English", "Add yours"]
+name:      "Manav Sharma Paudel"
+role:      "Student / Vibe Coder / App Developer"
+location:  "Kathmandu,Nepal"
+languages: "English", "Nepali"
 
 currently:
-  building:  "the project you're most excited about"
-  learning:  "the thing that's currently breaking your brain"
-  reading:   "a book, a paper, or the docs — no shame"
+  building:  "dumb stuff"
+  learning:  "python"
+  reading:   "3rd sem books"
 
 philosophy: >
   Ship it, break it, understand why it broke,
   then build it properly. Repeat forever.
 
-fun_fact:  "Add something people wouldn't guess about you"
+fun_fact:  "Obsession beats Discipline"
 ```
 
 <br/>
