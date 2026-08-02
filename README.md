@@ -23,7 +23,7 @@ fun_fact:  "Obsession beats Discipline"
 ## 📊 The Numbers
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=manav-sharma-paudel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=0e75b6&icon_color=6a11cb" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-sharma-paudel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=0e75b6" />
+<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=manav-sharma-paudel](https://manav-sharma-paudel.vercel.app)&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=0e75b6" />
 <br/>
 <img height="165" src="https://streak-stats.demolab.com?user=manav-sharma-paudel&theme=tokyonight&hide_border=true&background=00000000&ring=0e75b6&fire=6a11cb&currStreakLabel=0e75b6" />
 </div>
