@@ -1,21 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=180&section=header&text=Your%20Name&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20things%20that%20didn't%20exist%20yesterday&descAlignY=52&descSize=16" width="100%" />
-
-<a href="https://github.com/YOUR-USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Explorer;Open+Source+Contributor;Perpetual+Student+of+the+Craft" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-Learning%20by%20Doing-6a11cb?style=for-the-badge" alt="focus" />
-
-</div>
-
----
-
 ## 🧭 About Me
 
 ```yaml
