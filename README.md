@@ -49,77 +49,11 @@ fun_fact:  "Obsession beats Discipline"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000&color=0e75b6&line=6a11cb&point=ffffff&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manav-sharma-paudel&theme=tokyo-night&hide_border=true&bg_color=00000000&color=0e75b6&line=6a11cb&point=ffffff&area=true" width="100%" />
 
 </div>
 
 <br/>
-
-## 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 Project One
-Short punchy description — what it does and why it's interesting. One or two lines, no more.
-
-`Python` `FastAPI` `PostgreSQL`
-
-[**Repo**](https://github.com/YOUR-USERNAME/project-one) · [**Live**](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Project Two
-Short punchy description — what it does and why it's interesting. One or two lines, no more.
-
-`React` `Node.js` `Tailwind`
-
-[**Repo**](https://github.com/YOUR-USERNAME/project-two) · [**Live**](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 Project Three
-Short punchy description — what it does and why it's interesting. One or two lines, no more.
-
-`PyTorch` `Jupyter`
-
-[**Repo**](https://github.com/YOUR-USERNAME/project-three)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Project Four
-Short punchy description — what it does and why it's interesting. One or two lines, no more.
-
-`TypeScript` `Next.js`
-
-[**Repo**](https://github.com/YOUR-USERNAME/project-four)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 💭 Dev Quote of the Day
 
