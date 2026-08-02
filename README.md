@@ -4,7 +4,7 @@
 name:      "Manav Sharma Paudel"
 role:      "Student / Vibe Coder / App Developer"
 location:  "Kathmandu,Nepal"
-languages: "English", "Nepali"
+languages: ["English", "Nepali"]
 
 currently:
   building:  "dumb stuff"
