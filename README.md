@@ -20,56 +20,16 @@ fun_fact:  "Obsession beats Discipline"
 
 <br/>
 
-## 🛠️ Tech I Work With
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Data & ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools & Infra**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-> Delete anything you don't actually use. A short honest stack beats a long aspirational one.
-
-<br/>
-
 ## 📊 The Numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=0e75b6&icon_color=6a11cb" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=0e75b6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manav-sharma-paudel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=0e75b6&icon_color=6a11cb" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-sharma-paudel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=0e75b6" />
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=0e75b6&fire=6a11cb&currStreakLabel=0e75b6" />
+<img height="165" src="https://streak-stats.demolab.com?user=manav-sharma-paudel&theme=tokyonight&hide_border=true&background=00000000&ring=0e75b6&fire=6a11cb&currStreakLabel=0e75b6" />
 
 </div>
 
