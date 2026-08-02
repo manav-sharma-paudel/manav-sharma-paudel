@@ -35,16 +35,6 @@ fun_fact:  "Obsession beats Discipline"
 
 <br/>
 
-## 🏆 Trophy Shelf
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manav-sharma-paudel&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
-
-</div>
-
-<br/>
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -54,8 +44,3 @@ fun_fact:  "Obsession beats Discipline"
 </div>
 
 <br/>
-
-### 💭 Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
-
